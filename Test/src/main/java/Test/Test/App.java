@@ -12,5 +12,6 @@ public class App
         System.out.println("good");
         System.out.println("manager");
         System.out.println("manager2");
+        System.out.println("Master");
     }
 }
