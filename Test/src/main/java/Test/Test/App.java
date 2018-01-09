@@ -12,8 +12,9 @@ public class App
         System.out.println("good");
         System.out.println("Master Test!!!");
         
-        for(int i=0; i<6; i++) {
-        	System.out.println("*");
+        for(int i=0; i<5; i++) {
+        	System.out.print("*");
+        	
         }
     }
 }
