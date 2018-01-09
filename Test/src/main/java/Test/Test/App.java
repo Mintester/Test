@@ -11,5 +11,9 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("good");
         System.out.println("Master Test!!!");
+        
+        for(int i=0; i<6; i++) {
+        	System.out.println("*");
+        }
     }
 }
